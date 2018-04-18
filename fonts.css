@@ -1,0 +1,20 @@
+/*
+This CSS resource incorporates links to font software which is the valuable copyrighted
+property of Monotype Imaging and/or its suppliers. You may not attempt to copy, install,
+redistribute, convert, modify or reverse engineer this font software. Please contact Monotype
+Imaging with any questions regarding Web Fonts:  http://www.fonts.com
+*/
+
+@import url("http://fast.fonts.net/t/1.css?apiType=css&projectid=0c558350-8d1d-4773-8baa-a13d68f3846c");
+
+@font-face{
+  font-family:"DIN Next LT W01 Light";
+  src:url("Fonts/fb0dd5e6-cf57-43be-8f3f-2880d5389694.eot?#iefix");
+  src:url("Fonts/fb0dd5e6-cf57-43be-8f3f-2880d5389694.eot?#iefix") format("eot"),url("Fonts/14aba99e-8c97-4daa-a8df-67920a051402.woff2") format("woff2"),url("Fonts/96fd6d6f-fad6-4dd9-ab70-29547a56cacd.woff") format("woff"),url("Fonts/cdc1c0e4-213b-4a01-a1dc-af6dddf2263a.ttf") format("truetype"),url("Fonts/6bc3f424-2188-4cae-81e3-1e158ad5dd1a.svg#6bc3f424-2188-4cae-81e3-1e158ad5dd1a") format("svg");
+}
+
+@font-face{
+  font-family:"DINNextW01-CondensedBol";
+  src:url("Fonts/71888b4d-cd66-4c8b-9a5c-b37014e8e4fa.eot?#iefix");
+  src:url("Fonts/71888b4d-cd66-4c8b-9a5c-b37014e8e4fa.eot?#iefix") format("eot"),url("Fonts/258804c2-9ca6-4856-bad7-67cde4f087b4.woff2") format("woff2"),url("Fonts/0c0418fe-d324-4ab2-978a-e8201c646ca1.woff") format("woff"),url("Fonts/2c4f6a99-1274-42cd-8d14-fecf6ae449a4.ttf") format("truetype"),url("Fonts/aabfdee7-da54-4fae-93d3-afae95449faa.svg#aabfdee7-da54-4fae-93d3-afae95449faa") format("svg");
+}

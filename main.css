@@ -1,0 +1,19 @@
+body {
+  width: 854px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family:"DIN Next LT W01 Light";
+  font-size: 36px;
+  line-height: 48px;
+  color: #4A4A4A;
+}
+
+article header h1 {
+  font-family:"DINNextW01-CondensedBol";
+  font-size: 72px;
+}
+
+article p {
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
